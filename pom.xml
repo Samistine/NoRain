@@ -5,6 +5,7 @@
     <artifactId>NoRain</artifactId>
     <version>1.01</version>
     <build>
+        <finalName>NoRain</finalName>
         <resources>
             <resource>
                 <directory>${basedir}/src/main/resources</directory>
